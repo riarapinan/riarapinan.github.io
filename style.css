@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed');
+
+
+/******Header Styling******/
+h1 {
+    color: #000000;
+    margin-top: 40;
+    font-size: 4em;
+}
+h1 {
+    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h5 {
+    font-size: 1.0em;
+    font-weight: 2300;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+}
+body {
+    background-color: #F7B267;
+}
+
+/******Sidebar Styling******/
+#profile-pic {
+    border-radius: 50%;
+    margin-top: 40;
+    margin-left: 15;
+}
+.sidebartext {
+    margin-top: 1.5em;
+    text-align: center;
+}
+#sidebar {
+    background-color: #BA5A31;
+}
+#sidebar {
+    width: 22em;
+    height: 100vh;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.3em
+}
+li {
+    padding: 15;
+    color: #e4d6a7;
+}
+
+/******Work Experience Styling******/
+.infolabel {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+.container {
+    margin-left: 22em;
+}
+#WORK {
+    margin-top: 40;
+    font-family: 'Oswald', sans-serif;
+    color: #BA5A31;
+}
+#EDUCATION {
+    font-family: 'Oswald', sans-serif;
+    color: #BA5A31
+}
+#info {
+    margin-right: 400;
+}
